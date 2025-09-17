@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 1 - Facundo Rubiolo
 
 ![Diagrama Entidad Relación](./DER.jpeg)
 
